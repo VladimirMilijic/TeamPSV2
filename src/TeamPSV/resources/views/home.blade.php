@@ -30,7 +30,7 @@
                                 <td><a href="#cppModal" role="button" data-toggle="modal"><img src="img/c.png" class="img-responsive img-rounded"></a></td>
                                 <td><a href="#javaModal" role="button" data-toggle="modal"><img src="img/java.jpg" class="img-responsive img-rounded"></a></td>
                                 <td><a href="#phpModal" role="button" data-toggle="modal"><img src="img/php.png" class="img-responsive img-rounded"></a></td>
-                                <td><img src="img/xml.png" class="img-responsive img-rounded"></td>
+                                <td><a href="#xmlModal" role="button" data-toggle="modal"><img src="img/xml.png" class="img-responsive img-rounded"></a></td>
                             </tr>
                             <tr>
                                 <td align="center">JavaScript</td>
@@ -39,10 +39,10 @@
                                 <td align="center">JQuery</td>
                             </tr>
                             <tr>
-                                <td><img src="img/javascript.png" class="img-responsive img-rounded"></td>
-                                <td><img src="img/nodejs.png" class="img-responsive img-rounded"></td>
-                                <td><img src="img/html.png" class="img-responsive img-rounded"></td>
-                                <td><img src="img/jquery.png" class="img-responsive img-rounded"></td>
+                                <td><a href="#javaskriptModal" role="button" data-toggle="modal"><img src="img/javascript.png" class="img-responsive img-rounded"></a></td>
+                                <td><a href="#nodeJSModal" role="button" data-toggle="modal"><img src="img/nodejs.png" class="img-responsive img-rounded">
+                                <td><a href="#htmlModal" role="button" data-toggle="modal"><img src="img/html.png" class="img-responsive img-rounded"></a></td>
+                                <td><a href="#JQueryModal" role="button" data-toggle="modal"><img src="img/jquery.png" class="img-responsive img-rounded"></a></td>
                             </tr>
                             </tbody>
                         </table>
@@ -106,6 +106,118 @@
                                 </div>
                             </div>
                         </div>
+
+
+
+                        <div class="modal fade" id="xmlModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <!-- header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h3 class="modal-title">Choose tutorials:</h3>
+                                    </div>
+
+                                    <!-- body (form) -->
+                                    <div class="modal-body">
+                                        <a href="text-posts/cat/4">Text Tutorials</a><br>
+                                        <a href="video-posts/cat/4">Video Tutorials</a>
+                                    </div>
+                                    <!-- button -->
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="modal fade" id="javaskriptModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <!-- header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h3 class="modal-title">Choose tutorials:</h3>
+                                    </div>
+
+                                    <!-- body (form) -->
+                                    <div class="modal-body">
+                                        <a href="text-posts/cat/5">Text Tutorials</a><br>
+                                        <a href="video-posts/cat/5">Video Tutorials</a>
+                                    </div>
+                                    <!-- button -->
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="modal fade" id="nodeJSModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <!-- header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h3 class="modal-title">Choose tutorials:</h3>
+                                    </div>
+
+                                    <!-- body (form) -->
+                                    <div class="modal-body">
+                                        <a href="text-posts/cat/6">Text Tutorials</a><br>
+                                        <a href="video-posts/cat/6">Video Tutorials</a>
+                                    </div>
+                                    <!-- button -->
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="modal fade" id="htmlModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <!-- header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h3 class="modal-title">Choose tutorials:</h3>
+                                    </div>
+
+                                    <!-- body (form) -->
+                                    <div class="modal-body">
+                                        <a href="text-posts/cat/7">Text Tutorials</a><br>
+                                        <a href="video-posts/cat/7">Video Tutorials</a>
+                                    </div>
+                                    <!-- button -->
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="modal fade" id="JQueryModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <!-- header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h3 class="modal-title">Choose tutorials:</h3>
+                                    </div>
+
+                                    <!-- body (form) -->
+                                    <div class="modal-body">
+                                        <a href="text-posts/cat/8">Text Tutorials</a><br>
+                                        <a href="video-posts/cat/8">Video Tutorials</a>
+                                    </div>
+                                    <!-- button -->
+                                </div>
+                            </div>
+                        </div>
+
+
+
 
                     </div>
 
